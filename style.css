@@ -1,0 +1,54 @@
+.container  {
+    width: 1200px;
+    margin: auto;
+}
+
+h1{
+    background-color: red;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1 {
+    width:40% ;
+    margin: auto;
+}
+
+.box2 {
+    width: 30%;
+    margin: auto;
+
+
+}
+
+.box3 {
+    width: 40%;
+    margin: auto;
+}
+.box3 img {
+    width: 100%;
+
+
+}
+.box4 {
+    width: 40%;
+    margin: auto;
+}
+.box4 img {
+    width: 100%;
+
+
+}
+.box5 {
+    width: 45%;
+    margin: auto;
+}
+.box5  .box6 {
+    width: 45%;
+    margin: auto;
+
+}
+.box6 img {
+    width: 100%;
+}
